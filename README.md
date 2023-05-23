@@ -2,7 +2,7 @@
 Aplicação React que representa um Todo List (Lista de Tarefas).
 
 # <img height="40" src="https://github.com/RafaelBig-BSI/todolist-react-deploy/assets/84249945/347ee6f3-b77d-4256-935a-be6469d31924"/> Deploy
-https://rafaelbig-bsi.github.io/todolist-react-deploy/
+Para deploy utilizei o Github Pages: https://rafaelbig-bsi.github.io/todolist-react-deploy/
 
 
 # :hammer: Funcionalidades
